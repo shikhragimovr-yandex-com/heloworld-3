@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        System.out.println("привет мир");
         byte apples = 5;
         short nuts = 200;
         int rubles = 10000;
