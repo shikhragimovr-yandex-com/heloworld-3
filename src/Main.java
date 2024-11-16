@@ -8,7 +8,7 @@ public class Main {
         long toys = 1000000;
         float weight = 2.7f;
         double size = 1.9;
-        System.out.println("яблоки " + apples + " кг");
+        System.out.println(" яблоки " + apples + " кг");
         System.out.println("орехи " + nuts + " кг");
         System.out.println("рублей " + rubles);
         System.out.println("вес " + toys + " кг");
