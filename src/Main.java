@@ -134,7 +134,7 @@ public class Main {
         System.out.println("теперь денис получает " + nowDenis + " рублей " + "годовой доход вырос на " + denisNow + " рублей");
         int nowKristina = kristina + receivesKristina;
         int kristinaNow = mother * receivesKristina;
-        System.out.println("теперь кристина получает " + nowKristina + " рублей" + " годовой доход вырос на " + kristinaNow + "рублей " );
+        System.out.println("теперь кристина получает " + nowKristina + " рублей" + " годовой доход вырос на " + kristinaNow + " рублей " );
 
 
 
