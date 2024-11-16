@@ -16,7 +16,7 @@ public class Main {
         System.out.println("размер " + size + " сантиметром");
         float a = 27.12f;
         System.out.println(a);
-        long b = 987678965549l;
+        long b = 987678965549L;
         System.out.println(b);
         float c = 2.786f;
         System.out.println(c);
@@ -135,7 +135,7 @@ public class Main {
         System.out.println("теперь денис получает " + nowDenis + " рублей " + "годовой доход вырос на " + denisNow + " рублей");
         int nowKristina = kristina + receivesKristina;
         int kristinaNow = mother * receivesKristina;
-        System.out.println(" теперь кристина получает" + nowKristina + " рублей" + " годовой доход вырос на " + kristinaNow + " рублей " );
+        System.out.println("теперь кристина получает" + nowKristina + " рублей" + " годовой доход вырос на " + kristinaNow + " рублей " );
 
 
 
